@@ -1,6 +1,6 @@
 import React, { useRef } from "react";
 import { assets } from "../assets/assets";
-import { useAppContext } from "../context/appContext";
+import { useAppContext } from "../context/AppContext";
 
 function Header() {
   const { setInput, input } = useAppContext();
