@@ -37,7 +37,13 @@ export const addBlog = async (req, res) => {
       return res.json({ success: false, message: "Missing required fields" });
     }
 
-    if (!imageFile || !imageFile.path) {
+    // if (!imageFile || !imageFile.path) {
+    //   return res
+    //     .status(400)
+    //     .json({ success: false, message: "Image file missing" });
+    // }
+
+    if (!imageFile || !imageFile.buffer) {
       return res
         .status(400)
         .json({ success: false, message: "Image file missing" });
