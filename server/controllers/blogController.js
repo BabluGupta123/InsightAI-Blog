@@ -43,7 +43,7 @@ export const addBlog = async (req, res) => {
         .json({ success: false, message: "Image file missing" });
     }
 
-    const fileBuffer = fs.readFileSync(imageFile.path);
+    const fileBuffer = imageFile.buffer;
 
     const response = await imagekit.upload({
       file: fileBuffer,
