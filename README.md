@@ -29,27 +29,33 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-Users can see all the published blogs by the admin, read them, and share their experiences through comments.  
+Users can see all the published blogs by the admin, read them, and share their experiences through comments. 
+
 ![Home Page](https://raw.githubusercontent.com/BabluGupta123/InsightAI-Blog/master/Screenshots/HomePage.jpg)
 
 ### 📊 Admin Dashboard
 The dashboard provides insights into total blogs, total comments, and draft blogs.  
+
 ![Dashboard](https://raw.githubusercontent.com/BabluGupta123/InsightAI-Blog/master/Screenshots/Dashboard.jpg)
 
 ### 💬 Comments Management
-Admins can approve or delete inappropriate comments. Only verified comments are displayed on the blog page.  
+Admins can approve or delete inappropriate comments. Only verified comments are displayed on the blog page. 
+
 ![Comments](https://raw.githubusercontent.com/BabluGupta123/InsightAI-Blog/master/Screenshots/Comments.jpg)
 
 ### 📖 Blog Page
 Users can view detailed blogs by clicking on any post and can leave comments.  
+
 ![Detailed Blog](https://raw.githubusercontent.com/BabluGupta123/InsightAI-Blog/master/Screenshots/DetailedBlog.jpg)
 
 ### ✍️ Add Blog
-Admins can create new blogs using a text editor or auto-generate content with the AI assistant.  
+Admins can create new blogs using a text editor or auto-generate content with the AI assistant. 
+
 ![Add Blog](https://raw.githubusercontent.com/BabluGupta123/InsightAI-Blog/master/Screenshots/AddBlog.jpg)
 
 ### 📑 Blog List
 Admins can publish, unpublish, or delete blogs. Published blogs appear on the home page.  
+
 ![Blog List](https://raw.githubusercontent.com/BabluGupta123/InsightAI-Blog/master/Screenshots/BlogList.jpg)
 
 ---
